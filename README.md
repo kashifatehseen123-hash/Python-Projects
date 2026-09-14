@@ -39,5 +39,3 @@ This project helped me practice:
 ## Author
 
 **Kashifa Tehseen**
-
-Kashifa Tehseen
